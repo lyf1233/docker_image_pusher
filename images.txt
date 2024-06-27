@@ -1,3 +1,1 @@
-xiaoyaliu/alist
-xhofe/alist
-emby/embyserver
+jellyfin/jellyfin
